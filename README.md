@@ -4,7 +4,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+## apis info 
+in this project i used rapid youtube and in front end i used react.js this website is fully responsive and used complex login which is really scalable and everyone can read code easily and for state management i used context api for State management 
 ## Available Scripts
 
 In the project directory, you can run:
